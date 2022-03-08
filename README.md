@@ -1,2 +1,1 @@
-# pizza-thinkful
-simple web page demo 
+# pizza
